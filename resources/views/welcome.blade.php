@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravelsss
+                    Laravelsss test commit
                 </div>
 
                 <div class="links">
